@@ -10,6 +10,6 @@ gem "mixpanel_test-rails"
 rails g mixpanel_test:cucumber # Generates cucumber steps and tells you how to set up the rest
 </pre>
 
-<h2>Having dependency problems?</h2>
+<h2>Limitations</h2>
 
-<p>Not surprising. This relies on mixpanel_test_service from a git repo so it cannot yet be published. mixpanel_test_service cannot be published yet because it relies on a fork of net-http-server from a git repo. Just put the git repos in your Gemfile until the gem author or net-http-server publishes a particular bug fix</p>
+<p>This gem has no tests. However, version 0.0.1 is being used to test <a href="http://behiring.com">BeHiring</a></p>

@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = MixpanelTest::VERSION
   s.authors     = ["John Cant"]
   s.email       = ["a.johncant@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/johncant/mixpanel_test-rails"
   s.summary     = %q{Cucumber steps for testing mixpanel integration}
   s.description = %q{Cucumber steps for testing mixpanel integration}
 
